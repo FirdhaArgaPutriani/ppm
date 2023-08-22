@@ -28,9 +28,7 @@ require_once('layout/header.php')
                 <br>Turpis massa sed elementum tempus egestas sed sed. Sed vulputate mi sit amet mauris commodo quis. Massa enim nec dui nunc mattis. Viverra nibh cras pulvinar mattis nunc sed. Rutrum tellus pellentesque eu tincidunt tortor aliquam nulla facilisi. Tincidunt arcu non sodales neque sodales ut. Ultricies tristique nulla aliquet enim tortor at auctor. Massa eget egestas purus viverra accumsan in nisl nisi. Gravida arcu ac tortor dignissim convallis aenean et tortor. In ante metus dictum at tempor commodo ullamcorper a lacus. Duis ultricies lacus sed turpis tincidunt id aliquet.
             </p>
         </div>
-        
     </div>
-
 </div>
 </div>
 </div>

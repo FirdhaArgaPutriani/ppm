@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <title><?= $title ?></title>
-  <link rel="stylesheet" href="asset/css/styleheader.css">
+  <link rel="stylesheet" href="http://localhost/ppm/asset/css/styleheader.css">
   <script src="https://kit.fontawesome.com/b99e675b6e.js"></script>
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
   <link rel="stylesheet" href="https://unicons.iconscout.com/release/v4.0.0/css/line.css" />
@@ -49,7 +49,7 @@
         <div class="inner__sidebar_menu">
           <ul class="links">
             <li>
-              <a href="index.php">
+              <a href="http://localhost/ppm/index.php">
                 <span class="icon">
                   <i class="fas fa-home"></i></span>
                 <span class="list">Dashboard</span>
@@ -62,7 +62,7 @@
               </h3>
             </li>
             <li>
-              <a href="pemerintahan/germas.php">
+              <a href="http://localhost/ppm/pemerintahan/germas.php">
                 <span class="icon"><i class="fas fa-users"></i></span>
                 <span class="list">Germas</span>
               </a>
