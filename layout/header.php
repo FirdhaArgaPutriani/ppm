@@ -35,7 +35,7 @@
             <span><input type="text" placeholder="Search.."></span>
             <span class="icon"><i class="fas fa-search"></i></span>
           <div class="icon_wrap">
-            <a href="login.php">
+            <a href="http://localhost/ppm/login.php">
               <span class="icon"><i class="fas fa-sign-in-alt"></i></span>
               <span>Login</span>
             </a>

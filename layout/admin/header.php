@@ -49,7 +49,7 @@
         <div class="inner__sidebar_menu">
           <ul class="links">
             <li>
-              <a href="http://localhost/ppm/index.php">
+              <a href="http://localhost/ppm/index_admin.php">
                 <span class="icon">
                   <i class="fas fa-home"></i></span>
                 <span class="list">Dashboard</span>
