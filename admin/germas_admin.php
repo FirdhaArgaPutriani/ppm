@@ -3,7 +3,7 @@ $title = 'Germas Admin';
 ?>
 
 <?php
-require_once('layout/admin/header.php')
+require_once('../layout/admin/header.php')
 ?>
 <div class="container">
     <div class="item_wrap">
@@ -15,5 +15,5 @@ require_once('layout/admin/header.php')
 </div>
 </div>
 <?php
-require_once('layout/admin/footer.php')
+require_once('../layout/admin/footer.php')
 ?>
